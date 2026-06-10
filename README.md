@@ -3,9 +3,9 @@
 I am a university student majoring in Electronics and Telecommunications at Hanoi University of Industry (HaUI). I am passionate about exploring Embedded Systems, IoT, and Artificial Intelligence.
 
 ## 🛠️ Tech Stack & Skills
-- **Languages:** Python, C/C++
-- **Hardware & Simulations:** MATLAB, Microcontrollers (Arduino, ESP32)
-- **Tools:** Git & GitHub, Linux
+- **Software & Programming:** Python, C/C++, MATLAB, Linux
+- **Hardware & Design Tools:** Altium Designer, Proteus, Microcontrollers (Arduino, ESP32)
+- **Version Control:** Git & GitHub
 
 ## 🎯 Current Goals
 - Learning more about AIoT systems and practical engineering applications.
